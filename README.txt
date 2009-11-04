@@ -22,6 +22,16 @@ the 'Select All' box to select or disable all permissions for a specific role.
 Uses jQuery, so won't work if you don't have javascript enabled in the browser.
 
 
+-- ALTERNATIVES --
+
+There is a series of other modules that provide similar functionality to this
+one. You may want to evaluate them as well.
+
+  * http://drupal.org/project/permission_select
+  * http://drupal.org/project/check_heavy_ui
+  * http://drupal.org/project/adminrole
+
+
 -- CONTACT --
 
 Current maintainers:
